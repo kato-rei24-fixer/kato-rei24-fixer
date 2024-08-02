@@ -11,7 +11,9 @@ Nuxt, Flutter, SCSS
 
 ## sub (order of confidence)
 Tool: Figma (over 6 years)
+
 Language: Python, Next, java
+
 Deploy: Vercel,
 
 <!---
