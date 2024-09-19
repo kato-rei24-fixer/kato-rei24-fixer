@@ -10,7 +10,7 @@
 Nuxt, Flutter, Figma (using over 5years)
 
 ## sub (order of confidence)
-Language: Python, Next,SCSS, java
+Language, Framework: Python, Next, SCSS, java
 
 Deploy: Vercel
 
