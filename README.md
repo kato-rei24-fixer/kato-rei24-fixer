@@ -7,7 +7,9 @@
 - ⚡ Fun fact: Game, Cat🐈‍⬛
 
 ## main
-Nuxt, Flutter, Figma (using over 5years)
+Figma (using over 5years),
+
+Flutter, Nuxt
 
 ## sub (order of confidence)
 Language, Framework: Python, Next, SCSS, java
