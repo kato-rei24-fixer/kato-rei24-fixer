@@ -7,14 +7,12 @@
 - ⚡ Fun fact: Game, Cat🐈‍⬛
 
 ## main
-Nuxt, Flutter, SCSS
+Nuxt, Flutter, Figma (using over 5years)
 
 ## sub (order of confidence)
-Tool: Figma (over 6 years)
+Language: Python, Next,SCSS, java
 
-Language: Python, Next, java
-
-Deploy: Vercel,
+Deploy: Vercel
 
 <!---
 kato-rei24-fixer/kato-rei24-fixer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
